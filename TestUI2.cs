@@ -22,4 +22,7 @@ public class TestUI2 : MonoBehaviour {
 
 	void new_func2 () {}
 
+	void new_func3 () {}
+	void new_func4 () {}
+
 }
