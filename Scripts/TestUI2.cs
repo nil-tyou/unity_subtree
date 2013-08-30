@@ -17,4 +17,6 @@ public class TestUI2 : MonoBehaviour {
 	void OnGUI() {
 		GUI.Box(new Rect(100, 200, 100, 100), "UnityTest2");
 	}
+	
+	void new_func () {}
 }
