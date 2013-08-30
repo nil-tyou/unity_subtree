@@ -19,4 +19,7 @@ public class TestUI2 : MonoBehaviour {
 	}
 	
 	void new_func () {}
+
+	void new_func2 () {}
+
 }
